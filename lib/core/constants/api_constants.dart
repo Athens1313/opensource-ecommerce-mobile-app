@@ -1,6 +1,6 @@
 /// Bagisto API endpoint
 const String bagistoEndpoint =
-    'https://maita.nnf.org/graphql';
+    'https://maita.nnf.org.zw/graphql';
 
 /// Storefront key for Bagisto API
 const String storefrontKey =
