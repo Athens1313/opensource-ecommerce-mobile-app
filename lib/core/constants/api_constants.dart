@@ -1,6 +1,6 @@
 /// Bagisto API endpoint
 const String bagistoEndpoint =
-    'https://your-bagisto-domain.com/graphql';
+    'https://maita.nnf.org/graphql';
 
 /// Storefront key for Bagisto API
 const String storefrontKey =
@@ -13,4 +13,4 @@ const String channelCode = 'default';
 const int channelId = 1;
 
 /// Company name
-const String companyName = 'Your Company Name';
+const String companyName = 'New Nobility Forum';
